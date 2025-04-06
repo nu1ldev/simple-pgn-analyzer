@@ -46,7 +46,6 @@ Run using ``bun .`` or ``bun run index.ts``, paste the pgn directly as a multi-l
         "black": "cxd4"
       }
     },
-    ...
   ]
 }
 ```
